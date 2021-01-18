@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e8780bc6-25e6-48f7-b0ff-1332cb56aca8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Entity.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pygame/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pygame/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pygame/map.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pygame/pygame_template.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pygame/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pygame/sprites.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pygame/wanderer_img/boss.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pygame/wanderer_img/boss.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pygame/wanderer_img/hefloor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pygame/wanderer_img/hero-down.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pygame/wanderer_img/hero-down.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pygame/wanderer_img/hero-left.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pygame/wanderer_img/hero-left.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pygame/wanderer_img/hero-right.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pygame/wanderer_img/hero-right.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pygame/wanderer_img/hero-up.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pygame/wanderer_img/hero-up.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pygame/wanderer_img/skeleton.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pygame/wanderer_img/skeleton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pygame/wanderer_img/thefloor.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pygame/wanderer_img/wall.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pygame/wanderer_img/wall.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/drop - cell.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/drop - grid.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/drop - main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/drop- resource.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_game.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="NamedScopeManager">
+    <scope name="test" pattern="file:resource.py" />
+  </component>
+  <component name="ProjectId" id="1lxsxG7U5S524g1ifTNwqsaVIS3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Etc" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Cheryl L\Documents\greenfox\klentix.wanderer\Etc" />
+      <recent name="C:\Users\Cheryl L\Documents\greenfox\klentix.wanderer" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Cheryl L\Documents\greenfox\klentix.wanderer" />
+      <recent name="C:\Users\Cheryl L\Documents\greenfox\klentix.wanderer\Test" />
+      <recent name="C:\Users\Cheryl L\Documents\greenfox\klentix.wanderer\Pygame" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.new">
+    <configuration name="hero" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="klentix.wanderer" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hero.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="klentix.wanderer" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="maps (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="klentix.wanderer" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/maps.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="new" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="klentix.wanderer" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/new.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="wanderer (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="klentix.wanderer" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wanderer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.new" />
+        <item itemvalue="Python.hero" />
+        <item itemvalue="Python.main (1)" />
+        <item itemvalue="Python.wanderer (1)" />
+        <item itemvalue="Python.maps (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e8780bc6-25e6-48f7-b0ff-1332cb56aca8" name="Default Changelist" comment="" />
+      <created>1608550322428</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608550322428</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1610801563251">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1610801563251" />
+    <state width="1515" height="188" key="GridCell.Tab.0.bottom" timestamp="1611004201773">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="188" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1611004201773" />
+    <state width="1515" height="188" key="GridCell.Tab.0.center" timestamp="1611004201773">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="188" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1611004201773" />
+    <state width="1515" height="188" key="GridCell.Tab.0.left" timestamp="1611004201773">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="188" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1611004201773" />
+    <state width="1515" height="188" key="GridCell.Tab.0.right" timestamp="1611004201773">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="188" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1611004201773" />
+    <state x="420" y="54" key="SettingsEditor" timestamp="1608552078575">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="420" y="54" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1608552078575" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Pygame/main.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Pygame/main.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
