@@ -1,6 +1,7 @@
-from tkinter import *
+from tkinter import Tk, Canvas, NW, PhotoImage
+from sprites import Hero, Skeleton, Boss
 from maps import Map
-from sprites import Hero,Skeleton,Boss
+
 import random
 
 size = 720
@@ -11,22 +12,23 @@ root.configure(background ='grey')
 canvas = Canvas(root, width=size, height=size)
 canvas.pack()
 
+
+
 class Game():
     def __init__(self,width = 720, height= 720):
         self.width = width
         self.height = height
 
         # for the status bar
-        self._stats = Canvas(root, width=self.width, height="32")
+        self._stats = Canvas(root, width=size, height=32)
         self._stats.pack()
-        self.rect = None
 
         # import floor and wall images
         self.floor_image = PhotoImage(file='wanderer_img/thefloor.gif')
         self.wall_image = PhotoImage(file='wanderer_img/wall.gif')
         self.map = Map()
         self.draw_map(self.map.tiles)
-
+        self.rect = None
 
     def draw_map(self, map):
         for i in range(len(map)):
@@ -37,18 +39,16 @@ class Game():
                     image = self.wall_image
                 canvas.create_image(j * 72, i * 72, anchor=NW, image=image)
 
-
-
-    def stats(self,hero): # to display status
+    def stats(self, hero):  # to display status
         self._stats.delete("all")
         text_display = f"Hero (Level: {hero.level}) HP: {int(hero.HP)}/38 | DP: {hero.DP} | SP: {hero.SP}"
-        self._stats.create_rectangle(0, 0, 600,20,fill = "black")
-        self._stats.create_text(10, 10, text=text_display , font=('arial', 11), anchor=NW)
+        self._stats.create_rectangle(0, 0, 720, 32, fill="grey")
+        self._stats.create_text(10, 10, text=text_display, font=('arial', 11), anchor=NW)
         self._stats.pack()
+
 
 class Sprite():
     def __init__(self):
-
         # importing images of hero , skeleton and boss
         self.hero_down = PhotoImage(file='wanderer_img/hero-down.gif')
         self.hero_up = PhotoImage(file='wanderer_img/hero-up.gif')
@@ -80,7 +80,7 @@ class Sprite():
 
 def on_key_press(e): # function when pressing a key
     try:
-        # print(e.keycode) : tracking which number for keycode
+        #print(e.keycode) #: #tracking which number for keycode
         # when clicking Up Arrow
         if e.keycode == 38:
             if not myapp.map.is_wall(hero.pos_x, hero.pos_y - 1) and hero.pos_y > 0:
@@ -108,6 +108,10 @@ def on_key_press(e): # function when pressing a key
                 hero.move(1, 0)
                 canvas.itemconfig(hero.hero, image=hero.hero_right)
                 hero.pos_x += 1
+
+        # elif e.keycorde == 32: #space bar to hit
+
+
     except IndexError:
         pass
 
